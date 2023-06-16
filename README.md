@@ -1,6 +1,9 @@
 # interestingUI-iOS
 따라 만들어보고싶은, 혹은 궁금한 UI들 모아서 정리해볼려구요
 
+## Apple
+* [애플 앱스토어 헤더가 확대되며 화면 전환](/Apple/appstore_expand_header.md)
+
 ## Kakao
 * [이모티콘 플러스 온보딩](/Kakao/emoticon_plus_onboarding.md)
 
@@ -8,7 +11,8 @@
 * [가사 확대하기](/Spotify/expand_lyrics.md)
 
 
-
+<br>
+<br>
 <details><summary> Contribution Guide </summary>
   
   # Contribution Guide
