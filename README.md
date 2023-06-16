@@ -1,8 +1,12 @@
 # interestingUI-iOS
 따라 만들어보고싶은, 혹은 궁금한 UI들 모아서 정리해볼려구요
 
-## [Kakao](/Kakao)
+## Kakao
 * [이모티콘 플러스 온보딩](/Kakao/emoticon_plus_onboarding.md)
+
+## Spotify
+* [가사 확대하기](/Spotify/expand_lyrics.md)
+
 
 
 <details><summary> Contribution Guide </summary>
